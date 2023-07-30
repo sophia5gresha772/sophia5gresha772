@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sophia5gresha772
+- 👀 I’m interested in PHP. I’m currently learning Laravel.
+- 🌱 Computer Science student with a focus on PHP and Laravel. 
+- 📫 Passionate about backend development and creating efficient web solutions.
